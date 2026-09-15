@@ -1,3 +1,5 @@
+LIVE DEPLOYED LINK : https://antara-assignment-9-pharmacy-management-qmxl.onrender.com
+
 # Pharmacy & Healthcare Store API
 
 REST API for pharmacy management and medicine ordering with MongoDB Atlas, JWT authentication, bcryptjs password hashing, and Role-Based Access Control (RBAC).
